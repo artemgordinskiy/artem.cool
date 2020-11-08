@@ -1,0 +1,114 @@
+title = "Artem Hordynskyi's Personal Website"
+baseurl = "https://artem.cool"
+theme = "hugo-coder"
+languageCode = "en-us"
+defaultcontentlanguage = "en"
+
+paginate = 20
+
+pygmentsstyle = "bw"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+disqusShortname = "yourdiscussshortname"
+
+[params]
+author = "Artem Hordynskyi"
+info = "Back-end Software Engineer"
+description = "Artem Hordynskyi's personal website"
+keywords = "blog,developer,personal"
+avatarurl = "images/avatar.jpg"
+
+favicon_32 = "/images/favicon-32x32.png"
+favicon_16 = "/images/favicon-16x16.png"
+
+footercontent = "I don't use cookies here 🍪 (though I do love them)"
+hideFooter = false
+hideCredits = true
+hideCopyright = true
+since = 2020
+
+enableTwemoji = false
+
+colorScheme = "auto"
+hidecolorschemetoggle = false
+
+customCSS = []
+customSCSS = []
+customJS = []
+
+[taxonomies]
+category = "categories"
+series = "series"
+tag = "tags"
+author = "authors"
+
+# Social links
+[[params.social]]
+name = "Twitter"
+icon = "fa fa-twitter fa-2x"
+weight = 1
+url = "https://twitter.com/artemgordinsky"
+[[params.social]]
+name = "Github"
+icon = "fa fa-github fa-2x"
+weight = 2
+url = "https://github.com/ArtemGordinsky"
+[[params.social]]
+name = "LinkedIn"
+icon = "fa fa-linkedin fa-2x"
+weight = 3
+url = "https://www.linkedin.com/in/artemhordynskyi"
+[[params.social]]
+name = "Email"
+icon = "fa fa-envelope fa-2x"
+weight = 4
+url = "mailto:hey@artem.cool"
+
+# Menu links
+#[[menu.main]]
+#name = "Blog"
+#weight = 1
+#url  = "posts/"
+#[[menu.main]]
+#name = "About"
+#weight = 1
+#url = "about/"
+
+[deployment]
+
+
+[[deployment.targets]]
+# An arbitrary name for this target.
+name = "Google Cloud"
+URL = "gs://artem.cool"
+
+# Optionally, you can include or exclude specific files.
+# See https://godoc.org/github.com/gobwas/glob#Glob for the glob pattern syntax.
+# If non-empty, the pattern is matched against the local path.
+# All paths are matched against in their filepath.ToSlash form.
+# If exclude is non-empty, and a local or remote file's path matches it, that file is not synced.
+# If include is non-empty, and a local or remote file's path does not match it, that file is not synced.
+# As a result, local files that don't pass the include/exclude filters are not uploaded to remote,
+# and remote files that don't pass the include/exclude filters are not deleted.
+# include = "**.html" # would only include files with ".html" suffix
+# exclude = "**.{jpg, png}" # would exclude files with ".jpg" or ".png" suffix
+
+
+# [[deployment.matchers]] configure behavior for files that match the Pattern.
+# Samples:
+
+[[deployment.matchers]]
+#  Cache static assets for 1 year.
+pattern = "^.+\\.(js|css|svg|ttf)$"
+cacheControl = "max-age=31536000, no-transform, public"
+gzip = true
+
+[[deployment.matchers]]
+pattern = "^.+\\.(png|jpg)$"
+cacheControl = "max-age=31536000, no-transform, public"
+gzip = false
+
+[[deployment.matchers]]
+pattern = "^.+\\.(html|xml|json)$"
+gzip = true
