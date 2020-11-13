@@ -11,12 +11,14 @@ jobs:
     steps:
       - name: Checkout master
         uses: actions/checkout@v1
+        with:
+          submodules: true
 
       - name: Deploy the site
         uses: benmatselby/hugo-deploy-gh-pages@master
         env:
-          HUGO_VERSION: 0.57.2
-          TARGET_REPO: artemgordinsky/artem.cool
+          HUGO_VERSION: 0.78.2
+          TARGET_REPO: ArtemGordinsky/artem.cool
           TARGET_BRANCH: gh-pages
-          TOKEN: ${{ secrets.TOKEN }}
+          TOKEN: ${{ secrets.GH_ACCESS_TOKEN }}
           CNAME: artem.cool
