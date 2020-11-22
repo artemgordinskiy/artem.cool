@@ -10,13 +10,12 @@ pygmentsstyle = "bw"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
-disqusShortname = "yourdiscussshortname"
-
 [params]
 author = "Artem Hordynskyi"
-info = "Back-end Software Engineer"
-description = "Artem Hordynskyi's personal website"
+info = "Human, Software Engineer"
+description = "The website and blog of Artem Hordynskyi."
 keywords = "blog,developer,personal"
+header = "Artem Hordynskyi"
 avatarurl = "images/avatar.jpg"
 
 favicon_32 = "/images/favicon-32x32.png"
@@ -66,22 +65,22 @@ weight = 4
 url = "mailto:hey@artem.cool"
 
 # Menu links
-#[[menu.main]]
-#name = "Blog"
-#weight = 1
-#url  = "posts/"
-#[[menu.main]]
-#name = "About"
-#weight = 1
-#url = "about/"
+[[menu.main]]
+name = "Blog"
+weight = 1
+url  = "blog/"
+[[menu.main]]
+name = "About"
+weight = 1
+url = "about/"
 
 [deployment]
 
 
 [[deployment.targets]]
 # An arbitrary name for this target.
-name = "Google Cloud"
-URL = "gs://artem.cool"
+#name = "Google Cloud"
+#URL = "gs://artem.cool"
 
 # Optionally, you can include or exclude specific files.
 # See https://godoc.org/github.com/gobwas/glob#Glob for the glob pattern syntax.
