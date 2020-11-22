@@ -14,7 +14,7 @@ series = ["Blog"]
 
 If you're reading the title of this post and you think to yourself "A pandemic? That was ages ago!" — then congrats, you've made it, humanity!
 
-Alas, as I'm writing this in late 2020, most of the world's developers (and, pretty much, everyone else who can) are still staying away from their companies' offices and working from home in an attempt to [flatten the curve](https://www.flattenthecurve.com/) of Covid19 infections.
+Alas, as I'm writing this in late 2020, most of the world's developers (and, pretty much, everyone else who can) are still staying away from their companies' offices and working from home in an attempt to [flatten the curve](https://www.flattenthecurve.com/) of COVID19 infections.
 
 If you were to ask everyone in the world to give 2020 a Yelp review, the average rating would probably be... let's just say not great. A large number of businesses had to shut down, people lost their jobs, and in general, it has just been a very stressful year for pretty much everyone.
 As for me, I have been in a fairly fortunate position to be able to switch to remote work and stay in the safety of my home. But, back in August of this year, I decided to start looking for a new job, because what better time to do that if not at the cusp of a major economic recession?
