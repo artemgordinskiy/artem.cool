@@ -15,13 +15,13 @@ author = "Artem Hordynskyi"
 info = "Human, Software Engineer"
 description = "The website and blog of Artem Hordynskyi."
 keywords = "blog,developer,personal"
-header = "Artem Hordynskyi"
+header = "Artem"
 avatarurl = "images/avatar.jpg"
 
 favicon_32 = "/images/favicon-32x32.png"
 favicon_16 = "/images/favicon-16x16.png"
 
-footercontent = "I don't use cookies here 🍪 (though I do love them)"
+footercontent = "I don't use any cookies here 🍪 (though I do love them)"
 hideFooter = false
 hideCredits = true
 hideCopyright = true
