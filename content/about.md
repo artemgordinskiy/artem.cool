@@ -19,8 +19,8 @@ In 2007, when I was 14 years old, my parents were finally able to afford a down 
 
 For the first year, I was mostly just playing games and goofing around on the internet (yes, I did some homework on it too, mom!). Then, in 2010, my brother — [Yevhen](https://www.linkedin.com/in/yevhen-hordynskyi) — has asked me to make a website for one of his early entrepreneurial experiments. That sounded interesting, so I figured out how to register a domain name, set up hosting and use a free HTML template I found online. That got me tinkering with HTML and CSS.
 
-Following that, I made a few more websites in WordPress after discovering how easy it was to use and customise any of the thousands of free themes available online. None of those websites are around anymore, except for [this](https://web.archive.org/web/20130724141314/http://ayesense.com/project/reklabus) and [this](https://web.archive.org/web/20130724141453/http://ayesense.com/project/lifestyle) pages from my “web agency”’s portfolio saved by Archive.org, showing a couple of the websites I built.
-Along the way, I picked up bits of PHP and JavaScript, with some help from Codecademy and a bunch of random tutorials, books and videos. 
+After that, I kept making more websites for fun and profit. Mostly in WordPress, after discovering how easy it was to customise and use any of the thousands of free themes available online. None of those websites are around anymore, except for a couple of examples like [this](https://web.archive.org/web/20130724141314/http://ayesense.com/project/reklabus) and [this](https://web.archive.org/web/20130724141453/http://ayesense.com/project/lifestyle) from my “web agency”’s portfolio, miraculously saved by Archive.org.
+Along the way, I picked up bits of PHP and JavaScript, with some help from Codecademy and a bunch of random tutorials, books and videos.
 
 Starting in 2013, I (mostly) stopped free-lancing and got my first full-time job as a full-stack developer.
 I learned *a ton* in the 3 years at my first job in [Cybertone](https://cybertone.us), building all kinds of complex websites, iOS & Android app back-ends and so on.
