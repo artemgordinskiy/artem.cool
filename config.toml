@@ -49,19 +49,29 @@ icon = "fa fa-twitter fa-2x"
 weight = 1
 url = "https://twitter.com/artemgordinsky"
 [[params.social]]
+name = "Instagram"
+icon = "fa fa-instagram fa-2x"
+weight = 2
+url = "https://www.instagram.com/artemgordinsky"
+[[params.social]]
 name = "Github"
 icon = "fa fa-github fa-2x"
-weight = 2
+weight = 3
 url = "https://github.com/ArtemGordinsky"
 [[params.social]]
 name = "LinkedIn"
 icon = "fa fa-linkedin fa-2x"
-weight = 3
+weight = 4
 url = "https://www.linkedin.com/in/artemhordynskyi"
+[[params.social]]
+name = "Goodreads"
+icon = "fa fa-book fa-2x"
+weight = 5
+url = "https://www.goodreads.com/artemgordinsky"
 [[params.social]]
 name = "Email"
 icon = "fa fa-envelope fa-2x"
-weight = 4
+weight = 6
 url = "mailto:hey@artem.cool"
 
 # Menu links
