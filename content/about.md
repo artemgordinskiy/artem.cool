@@ -28,4 +28,4 @@ I learned *a ton* in the 3 years at my first job in [Cybertone](https://cyberton
 In 2016, I was lucky enough to get offered a job at a cool Amsterdam start-up called [3D Hubs](https://www.3dhubs.com).
 In the 4.5 years at 3D Hubs, I had a lot of fun tackling all kinds of challenges maintaining and optimising complex applications as well as building new, distributed systems. The best part, however, was being able to work with some of the most passionate, smartest people I ever met and making a bunch of friends in the process.
 
-What’s next? Watch this space! 2021 is looking exciting.
+At the end of 2020, I am leaving 3D Hubs to start 2021 fresh, and join [Mollie](https://www.mollie.com) as a software engineer! This will be my first foray into FinTech, so I'm excited to see it from the inside and to learn everything I can. I also wrote about my job search process in [this blog post](https://artem.cool/blog/switching-jobs-during-pandemic).
