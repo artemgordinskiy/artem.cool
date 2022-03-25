@@ -25,7 +25,7 @@ Along the way, I picked up bits of PHP and JavaScript, with some help from Codec
 Starting in 2013, I (mostly) stopped free-lancing and got my first full-time job as a full-stack developer.
 I learned *a ton* in the 3 years at my first job in [Cybertone](https://cybertone.us), building all kinds of complex websites, iOS & Android app back-ends and so on.
 
-In 2016, I was lucky enough to get offered a job at a cool Amsterdam start-up called [Hubs](https://hubs.com) (previously — "3D Hubs").
+In 2016, I was lucky enough to get offered a job at a cool Amsterdam start-up called [Hubs](https://www.hubs.com) (previously — "3D Hubs").
 In the 4.5 years at Hubs, I had a lot of fun tackling all kinds of challenges maintaining and optimising complex applications as well as building new, distributed systems. The best part, however, was being able to work with some of the most passionate, smartest people I ever met and making a bunch of friends in the process.
 
 At the beginning of 2021 I decided to explore the world of FinTech and joined [Mollie](https://www.mollie.com). I've also written about my job search process in [this blog post](https://artem.cool/blog/switching-jobs-during-pandemic).
