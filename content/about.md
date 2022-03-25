@@ -1,13 +1,13 @@
 +++ 
 draft = false
-date = 2020-11-22T15:35:25+01:00
+date = 2022-03-25T15:35:25+01:00
 title = "About me"
 slug = "about" 
 +++
 
 Hey there,
 
-My name is Artem Hordynskyi (or _Gordinsky_, if you transliterate my last name from Russian instead of Ukrainian).
+My name is Artem Hordynskyi (or _Gordinskiy_, if you transliterate my last name from Russian instead of Ukrainian).
 
 It’s been a while since I had an actual website instead of relying solely on Twitter and Instagram for self-expression. Thanks to The Pandemic, I had some free time to buy this [ridiculous domain name](https://artem.cool) and whip something up using Hugo and GitHub Pages. Feels good having my own little corner “on the interwebs” again.
 
@@ -25,7 +25,9 @@ Along the way, I picked up bits of PHP and JavaScript, with some help from Codec
 Starting in 2013, I (mostly) stopped free-lancing and got my first full-time job as a full-stack developer.
 I learned *a ton* in the 3 years at my first job in [Cybertone](https://cybertone.us), building all kinds of complex websites, iOS & Android app back-ends and so on.
 
-In 2016, I was lucky enough to get offered a job at a cool Amsterdam start-up called [3D Hubs](https://www.3dhubs.com).
-In the 4.5 years at 3D Hubs, I had a lot of fun tackling all kinds of challenges maintaining and optimising complex applications as well as building new, distributed systems. The best part, however, was being able to work with some of the most passionate, smartest people I ever met and making a bunch of friends in the process.
+In 2016, I was lucky enough to get offered a job at a cool Amsterdam start-up called [Hubs](https://hubs.com) (previously — "3D Hubs").
+In the 4.5 years at Hubs, I had a lot of fun tackling all kinds of challenges maintaining and optimising complex applications as well as building new, distributed systems. The best part, however, was being able to work with some of the most passionate, smartest people I ever met and making a bunch of friends in the process.
 
-At the end of 2020, I am leaving 3D Hubs to start 2021 fresh, and join [Mollie](https://www.mollie.com) as a software engineer! This will be my first foray into FinTech, so I'm excited to see it from the inside and to learn everything I can. I also wrote about my job search process in [this blog post](https://artem.cool/blog/switching-jobs-during-pandemic).
+At the beginning of 2021 I decided to explore the world of FinTech and joined [Mollie](https://www.mollie.com). I've also written about my job search process in [this blog post](https://artem.cool/blog/switching-jobs-during-pandemic).
+
+To be continued!

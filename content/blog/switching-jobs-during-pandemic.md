@@ -19,7 +19,7 @@ Alas, as I'm writing this in late 2020, most of the world's developers (and, pre
 If you were to ask everyone in the world to give 2020 a Yelp review then... let's just say this year won't top any charts. A large number of businesses had to shut down, people lost their jobs, and in general, it has just been a very stressful year for pretty much everyone.
 As for me, I have been in a fairly fortunate position to be able to switch to remote work and stay in the safety of my home. But, back in August of this year I decided to spice things up a bit, so I started looking for a new job. Because what better time to do that than at the cusp of the next potential economic recession?
 
-Leaving my current company —  [3D Hubs](https://www.3dhubs.com/) — after 4.5 amazing years has been no easy decision. But, when it's time for a new challenge, you just need to grit your teeth and get out of that nice and warm comfort zone of yours. That's where most of the growth opportunities lie.
+Leaving my current company —  [Hubs](https://hubs.com/) — after 4.5 amazing years has been no easy decision. But, when it's time for a new challenge, you just need to grit your teeth and get out of that nice and warm comfort zone of yours. That's where most of the growth opportunities lie.
 
 So, what can I say about my experience so far, and how this global lockdown made it different?
 
