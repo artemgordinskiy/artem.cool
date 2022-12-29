@@ -1,4 +1,4 @@
-title = "Artem Hordynskyi's Personal Website"
+title = "Artem Gordinskiy's Personal Website"
 baseurl = "https://artem.cool"
 theme = "hugo-coder"
 languageCode = "en-us"
@@ -11,9 +11,9 @@ pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
 [params]
-author = "Artem Hordynskyi"
+author = "Artem Gordinskiy"
 info = "Human, Software Engineer"
-description = "The website and blog of Artem Hordynskyi."
+description = "The website and blog of Artem Gordinskiy."
 keywords = "blog,developer,personal"
 header = "Artem"
 avatarurl = "images/avatar.jpg"
@@ -47,7 +47,7 @@ author = "authors"
 name = "Twitter"
 icon = "fa fa-twitter fa-2x"
 weight = 1
-url = "https://twitter.com/artemgordinsky"
+url = "https://twitter.com/artemgordinskiy"
 [[params.social]]
 name = "Instagram"
 icon = "fa fa-instagram fa-2x"

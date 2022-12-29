@@ -7,7 +7,7 @@ slug = "about"
 
 Hey there,
 
-My name is Artem Hordynskyi (or _Gordinskiy_, if you transliterate my last name from Russian instead of Ukrainian).
+My name is Artem Gordinskiy.
 
 It’s been a while since I had an actual website instead of relying solely on Twitter and Instagram for self-expression. Thanks to The Pandemic, I had some free time to buy this [ridiculous domain name](https://artem.cool) and whip something up using Hugo and GitHub Pages. Feels good having my own little corner “on the interwebs” again.
 
