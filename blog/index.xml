@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Artem Gordinskiy&#39;s Personal Website</title>
+    <link>https://artem.cool/blog/</link>
+    <description>Recent content in Blogs on Artem Gordinskiy&#39;s Personal Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 22 Nov 2020 15:06:12 +0100</lastBuildDate><atom:link href="https://artem.cool/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Finding a new job during a global pandemic</title>
+      <link>https://artem.cool/blog/switching-jobs-during-pandemic/</link>
+      <pubDate>Sun, 22 Nov 2020 15:06:12 +0100</pubDate>
+      
+      <guid>https://artem.cool/blog/switching-jobs-during-pandemic/</guid>
+      <description>If you&amp;rsquo;re reading the title of this post and thinking to yourself &amp;ldquo;A pandemic? That&amp;rsquo;s so 2020!&amp;rdquo; — then congrats, you&amp;rsquo;ve made it, humanity!
+Alas, as I&amp;rsquo;m writing this in late 2020, most of the world&amp;rsquo;s developers (and, pretty much, everyone else who can) are still staying away from their companies&#39; offices and working from home in an attempt to flatten the curve of COVID19 infections.
+If you were to ask everyone in the world to give 2020 a Yelp review then&amp;hellip; let&amp;rsquo;s just say this year won&amp;rsquo;t top any charts.</description>
+    </item>
+    
+  </channel>
+</rss>
