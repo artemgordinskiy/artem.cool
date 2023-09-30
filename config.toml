@@ -52,22 +52,22 @@ url = "https://twitter.com/artemgordinskiy"
 name = "Instagram"
 icon = "fa fa-instagram fa-2x"
 weight = 2
-url = "https://www.instagram.com/artemgordinsky"
+url = "https://www.instagram.com/artemgordinskiy"
 [[params.social]]
 name = "Github"
 icon = "fa fa-github fa-2x"
 weight = 3
-url = "https://github.com/ArtemGordinsky"
+url = "https://github.com/artemgordinskiy"
 [[params.social]]
 name = "LinkedIn"
 icon = "fa fa-linkedin fa-2x"
 weight = 4
-url = "https://www.linkedin.com/in/artemhordynskyi"
+url = "https://www.linkedin.com/in/artemgordinskiy"
 [[params.social]]
 name = "Goodreads"
 icon = "fa fa-book fa-2x"
 weight = 5
-url = "https://www.goodreads.com/artemgordinsky"
+url = "https://www.goodreads.com/artemgordinskiy"
 [[params.social]]
 name = "Email"
 icon = "fa fa-envelope fa-2x"
