@@ -15,7 +15,7 @@ Today, I migrated two of my Django ([Pegasus](https://www.saaspegasus.com/?via=a
 
 ## Setting up Coolify
 
-The setup process was pretty smooth. I spun up a fresh VPS on [Hetzner](https://hetzner.cloud/?ref=yGcKl9KVNC1w) and followed [this excellent guide from CJ@Syntax](https://www.youtube.com/watch?v=taJlPG82Ucw) to get everything up and running.
+The setup process was pretty smooth. I got a fresh VPS from [Hetzner](https://hetzner.cloud/?ref=yGcKl9KVNC1w) and followed [this excellent guide from CJ@Syntax](https://www.youtube.com/watch?v=taJlPG82Ucw) to get everything up and running.
 
 ## Deployment
 
