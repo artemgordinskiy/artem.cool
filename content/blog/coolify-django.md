@@ -1,6 +1,6 @@
 +++
 draft = false 
-date = 2024-09-25T12:06:12+01:00 
+date = 2024-09-25T10:06:12+01:00 
 title = "Migrating from Kamal to Coolify"
 description = "My Experience"
 slug = "coolify-django"
