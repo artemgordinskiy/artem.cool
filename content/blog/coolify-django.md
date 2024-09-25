@@ -31,7 +31,7 @@ Here’s how I deployed my app with PostgreSQL and Redis, including some gotchas
     - Do the same for Redis.
 3. **Add Your App Resource**:
     - Choose "Docker Compose" as the build option after linking your app repository.
-    - Here’s an example `docker-compose.yml` file I made (add it to your repository beforehand):
+    - Here’s an example `docker-compose.yml` file I made (add it to your repository beforehand):  
 
 
     ```yaml
