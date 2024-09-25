@@ -5,7 +5,8 @@ title = "Migrating from Kamal to Coolify"
 description = "My Experience"
 slug = "coolify-django"
 authors = ["Artem Gordinskiy"]
-tags = [] categories = []
+tags = [] 
+categories = []
 externalLink = ""
 series = ["Blog"]
 +++
