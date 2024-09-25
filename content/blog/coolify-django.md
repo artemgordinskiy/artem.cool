@@ -1,6 +1,6 @@
 +++
 draft = false 
-date = 2020-11-22T15:06:12+01:00 
+date = 2024-09-25T12:06:12+01:00 
 title = "Migrating from Kamal to Coolify"
 description = "My Experience"
 slug = "coolify-django"
@@ -32,6 +32,7 @@ Here’s how I deployed my app with PostgreSQL and Redis, including some gotchas
 3. **Add Your App Resource**:
     - Choose "Docker Compose" as the build option after linking your app repository.
     - Here’s an example `docker-compose.yml` file I made (add it to your repository beforehand):
+
 
     ```yaml
     version: '3.8'
