@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Artem Gordinskiy on artem</title>
+    <link>https://artem.cool/authors/artem-gordinskiy/</link>
+    <description>Recent content in Artem Gordinskiy on artem</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 25 Sep 2024 10:06:12 +0100</lastBuildDate>
+    <atom:link href="https://artem.cool/authors/artem-gordinskiy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Migrating from Kamal to Coolify</title>
+      <link>https://artem.cool/blog/coolify-django/</link>
+      <pubDate>Wed, 25 Sep 2024 10:06:12 +0100</pubDate>
+      <guid>https://artem.cool/blog/coolify-django/</guid>
+      <description>&lt;p&gt;Today, I migrated two of my Django (&lt;a href=&#34;https://www.saaspegasus.com/?via=artem&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Pegasus&lt;/a&gt;) apps from Kamal to &lt;a href=&#34;https://coolify.io/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Coolify&lt;/a&gt;, and I wanted to tell you how it went. If you&amp;rsquo;re considering a similar move, read on for a breakdown of what to expect and let me know if you have any questions!&lt;/p&gt;&#xA;&lt;h2 id=&#34;setting-up-coolify&#34;&gt;&#xA;  Setting up Coolify&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#setting-up-coolify&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;The setup process was pretty smooth. I got a fresh VPS from &lt;a href=&#34;https://hetzner.cloud/?ref=yGcKl9KVNC1w&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hetzner&lt;/a&gt; and followed &lt;a href=&#34;https://www.youtube.com/watch?v=taJlPG82Ucw&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this excellent guide from CJ@Syntax&lt;/a&gt; to get everything up and running.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Finding a new job during a global pandemic</title>
+      <link>https://artem.cool/blog/switching-jobs-during-pandemic/</link>
+      <pubDate>Sun, 22 Nov 2020 15:06:12 +0100</pubDate>
+      <guid>https://artem.cool/blog/switching-jobs-during-pandemic/</guid>
+      <description>&lt;p&gt;If you&amp;rsquo;re reading the title of this post and thinking to yourself &amp;ldquo;A pandemic? That&amp;rsquo;s so 2020!&amp;rdquo; — then congrats, you&amp;rsquo;ve made it, humanity!&lt;/p&gt;&#xA;&lt;p&gt;Alas, as I&amp;rsquo;m writing this in late 2020, most of the world&amp;rsquo;s developers (and, pretty much, everyone else who can) are still staying away from their companies&amp;rsquo; offices and working from home in an attempt to &lt;a href=&#34;https://www.flattenthecurve.com/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;flatten the curve&lt;/a&gt; of COVID19 infections.&lt;/p&gt;&#xA;&lt;p&gt;If you were to ask everyone in the world to give 2020 a Yelp review then&amp;hellip; let&amp;rsquo;s just say this year won&amp;rsquo;t top any charts. A large number of businesses had to shut down, people lost their jobs, and in general, it has just been a very stressful year for pretty much everyone.&#xA;As for me, I have been in a fairly fortunate position to be able to switch to remote work and stay in the safety of my home. But, back in August of this year I decided to spice things up a bit, so I started looking for a new job. Because what better time to do that than at the cusp of the next potential economic recession?&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

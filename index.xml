@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>artem</title>
+    <link>https://artem.cool/</link>
+    <description>Recent content on artem</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 25 Sep 2024 10:06:12 +0100</lastBuildDate>
+    <atom:link href="https://artem.cool/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Migrating from Kamal to Coolify</title>
+      <link>https://artem.cool/blog/coolify-django/</link>
+      <pubDate>Wed, 25 Sep 2024 10:06:12 +0100</pubDate>
+      <guid>https://artem.cool/blog/coolify-django/</guid>
+      <description>&lt;p&gt;Today, I migrated two of my Django (&lt;a href=&#34;https://www.saaspegasus.com/?via=artem&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Pegasus&lt;/a&gt;) apps from Kamal to &lt;a href=&#34;https://coolify.io/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Coolify&lt;/a&gt;, and I wanted to tell you how it went. If you&amp;rsquo;re considering a similar move, read on for a breakdown of what to expect and let me know if you have any questions!&lt;/p&gt;&#xA;&lt;h2 id=&#34;setting-up-coolify&#34;&gt;&#xA;  Setting up Coolify&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#setting-up-coolify&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;The setup process was pretty smooth. I got a fresh VPS from &lt;a href=&#34;https://hetzner.cloud/?ref=yGcKl9KVNC1w&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hetzner&lt;/a&gt; and followed &lt;a href=&#34;https://www.youtube.com/watch?v=taJlPG82Ucw&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this excellent guide from CJ@Syntax&lt;/a&gt; to get everything up and running.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About me</title>
+      <link>https://artem.cool/about/</link>
+      <pubDate>Fri, 25 Mar 2022 15:35:25 +0100</pubDate>
+      <guid>https://artem.cool/about/</guid>
+      <description>&lt;p&gt;Hey there,&lt;/p&gt;&#xA;&lt;p&gt;My name is Artem Gordinskiy.&lt;/p&gt;&#xA;&lt;p&gt;It’s been a while since I had an actual website instead of relying solely on Twitter and Instagram for self-expression. Thanks to The Pandemic, I had some free time to buy this &lt;a href=&#34;https://artem.cool&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ridiculous domain name&lt;/a&gt; and whip something up using Hugo and GitHub Pages. Feels good having my own little corner “on the interwebs” again.&lt;/p&gt;&#xA;&lt;p&gt;Not sure how best to characterise myself, but I guess I&amp;rsquo;m just an average nerd from Ukraine. I love music, especially classic rock and metal, the heavy kind.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Finding a new job during a global pandemic</title>
+      <link>https://artem.cool/blog/switching-jobs-during-pandemic/</link>
+      <pubDate>Sun, 22 Nov 2020 15:06:12 +0100</pubDate>
+      <guid>https://artem.cool/blog/switching-jobs-during-pandemic/</guid>
+      <description>&lt;p&gt;If you&amp;rsquo;re reading the title of this post and thinking to yourself &amp;ldquo;A pandemic? That&amp;rsquo;s so 2020!&amp;rdquo; — then congrats, you&amp;rsquo;ve made it, humanity!&lt;/p&gt;&#xA;&lt;p&gt;Alas, as I&amp;rsquo;m writing this in late 2020, most of the world&amp;rsquo;s developers (and, pretty much, everyone else who can) are still staying away from their companies&amp;rsquo; offices and working from home in an attempt to &lt;a href=&#34;https://www.flattenthecurve.com/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;flatten the curve&lt;/a&gt; of COVID19 infections.&lt;/p&gt;&#xA;&lt;p&gt;If you were to ask everyone in the world to give 2020 a Yelp review then&amp;hellip; let&amp;rsquo;s just say this year won&amp;rsquo;t top any charts. A large number of businesses had to shut down, people lost their jobs, and in general, it has just been a very stressful year for pretty much everyone.&#xA;As for me, I have been in a fairly fortunate position to be able to switch to remote work and stay in the safety of my home. But, back in August of this year I decided to spice things up a bit, so I started looking for a new job. Because what better time to do that than at the cusp of the next potential economic recession?&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://artem.cool/the_process/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://artem.cool/the_process/</guid>
+      <description>&lt;h1 id=&#34;the-process&#34;&gt;&#xA;  The Process&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#the-process&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;“The most important idea is simply focusing out and avoiding conscious choices while improvising.”&lt;/p&gt;&#xA;&lt;p&gt;“After all was said and done, the process we developed boils down to three major points. The first is to explore and heighten a point of concentration (POC). A POC gives us action instead of just activities. We learn to focus out, make discoveries, and react to those discoveries. The second is to explore and heighten a point of view (POV). A POV gives us a method of creating dialogue, which moves the play forward, avoids dialogue traps, and heightens our knowledge of the character. The third is to explore and heighten scenic focus, which helps us to focus the play one action at a time and allows the actor to live in the moment. The improvised play builds moment to moment like a snowball rolling down a hill. Most of the techniques boil down to focusing out, making discoveries, and having an emotional and physical reaction to those discoveries”&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://artem.cool/yes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://artem.cool/yes/</guid>
+      <description>&lt;html lang=&#34;en&#34;&gt;&#xA;&lt;head&gt;&#xA;&#xA;    &lt;title&gt;Yes.&lt;/title&gt;&#xA;    &lt;style type=&#34;text/css&#34;&gt;&#xA;        .giphy-embed {&#xA;            position: absolute;&#xA;            width: 480px;&#xA;            height: 270px;&#xA;            top: 50%;&#xA;            left: 50%;&#xA;            margin: -135px 0 0 -240px;&#xA;        }&#xA;    &lt;/style&gt;&#xA;&lt;/head&gt;&#xA;&lt;body&gt;&#xA;&lt;iframe src=&#34;https://giphy.com/embed/3oFzmkkwfOGlzZ0gxi&#34; width=&#34;480&#34; height=&#34;270&#34; frameBorder=&#34;0&#34; class=&#34;giphy-embed&#34;&#xA;        allowFullScreen&gt;&lt;/iframe&gt;&#xA;&lt;/body&gt;&#xA;&lt;/html&gt;</description>
+    </item>
+  </channel>
+</rss>
