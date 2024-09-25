@@ -84,11 +84,11 @@ Here’s how I deployed my app with PostgreSQL and Redis, including some gotchas
 ## Pros and Cons (So Far)
 
 ### Pros
-- **Continuous Deployment**: Push to deploy. Simply pushing your changes to GitHub to deploy is a much nicer experience than running commands and burning through your battery by building images with Kamal.
+- **Continuous Deployment**: Push to deploy – I love it. Simply pushing your changes to GitHub to deploy is a much nicer experience than running commands and burning through your battery by building images with Kamal.
 - **Notifications**: Easy to set up Telegram/email notifications for deployment events.
-- **Ease of Use**: Deploying new apps to your server is straightforward compared to Kamal.
-- **Active Development**: Coolify has an active development community and is evolving quickly.
-- **Cost-Effective**: It’s much cheaper than using a commercial PaaS.
+- **Ease of Use**: Deploying new apps is more straightforward compared to Kamal (IMO).
+- **Active Development**: Coolify is moving quickly and adding new features all the time. Its community seems pretty cool, too.
+- **Cost-Effective**: Running Coolify is much cheaper than using a commercial PaaS.
 
 ### Cons
 - **Beta Version**: The current major version of Coolify is still in beta so it has some rough edges.
