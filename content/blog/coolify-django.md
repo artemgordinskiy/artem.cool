@@ -31,9 +31,7 @@ Here’s how I deployed my app with PostgreSQL and Redis, including some gotchas
     - Do the same for Redis.
 3. **Add Your App Resource**:
     - Choose "Docker Compose" as the build option after linking your app repository.
-    - Here’s an example `docker-compose.yml` file I made (add it to your repository beforehand):  
-
-
+    - Here’s an example `docker-compose.yml` file I made (add it to your repository beforehand):     
     ```yaml
     version: '3.8'
 
@@ -95,8 +93,8 @@ Here’s how I deployed my app with PostgreSQL and Redis, including some gotchas
 ### Cons
 - **Beta Version**: The current major version of Coolify is still in beta so it has some rough edges.
 - **Manual Setup**: You can't set up your entire stack with a single config file — you need to click around the UI quite a bit.
-- **UI Performance**: The UI can be a bit slow, especially on smaller instances. Hopefully, this is just a "beta thing" and the backend gets optimised soon.
-- **Port Conflicts**: Port 8000 is reserved by Coolify itself. And since all the apps are running on the same host, different apps/resources can’t use the same port.
+- **UI Performance**: The UI can be a bit slow, especially on smaller instances. Hopefully, this is just a "beta thing," and the backend gets optimized soon.
+- **Port Conflicts**: Port 8000 is reserved by Coolify itself. And since all the apps are running on the same host, different apps/resources can’t use the same port. This is only a minor annoyance, but still something to keep in mind.
 
 That’s it for now! All in all, this was a fun experience, despite the fact that I hit a bug during installation and had to restart the process, and there were a few other hiccups* along the way. 
 
