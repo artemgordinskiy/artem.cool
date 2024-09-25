@@ -1,6 +1,14 @@
-+++ draft = false date = 2020-11-22T15:06:12+01:00 title = "Migrating from Kamal to Coolify: My Experience" description = "My experience" slug = "coolify-django" authors = ["Artem Gordinskiy"] tags = [] categories = [] externalLink = "" series = ["Blog"] +++
-
-# Migrating from Kamal to Coolify: My Experience
++++
+draft = false 
+date = 2020-11-22T15:06:12+01:00 
+title = "Migrating from Kamal to Coolify"
+description = "My Experience"
+slug = "coolify-django"
+authors = ["Artem Gordinskiy"]
+tags = [] categories = []
+externalLink = ""
+series = ["Blog"]
++++
 
 Today, I migrated two of my Django ([Pegasus](https://www.saaspegasus.com/?via=artem)) apps from Kamal to [Coolify](https://coolify.io/), and I wanted to tell you how it went. If you're considering a similar move, read on for a breakdown of what to expect and let me know if you have any questions!
 
