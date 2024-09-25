@@ -1,11 +1,11 @@
 +++
-draft = false 
-date = 2024-09-25T10:06:12+01:00 
+draft = false
+date = 2024-09-25T10:06:12+01:00
 title = "Migrating from Kamal to Coolify"
 description = "My Experience"
 slug = "coolify-django"
 authors = ["Artem Gordinskiy"]
-tags = [] 
+tags = []
 categories = []
 externalLink = ""
 series = ["Blog"]
@@ -31,7 +31,7 @@ Here’s how I deployed my app with PostgreSQL and Redis, including some gotchas
     - Do the same for Redis.
 3. **Add Your App Resource**:
     - Choose "Docker Compose" as the build option after linking your app repository.
-    - Here’s an example `docker-compose.yml` file I made (add it to your repository beforehand):     
+    - Here’s an example `docker-compose.yml` file I made (add it to your repository beforehand):
     ```yaml
     version: '3.8'
 
@@ -96,6 +96,6 @@ Here’s how I deployed my app with PostgreSQL and Redis, including some gotchas
 - **UI Performance**: The UI can be a bit slow, especially on smaller instances. Hopefully, this is just a "beta thing," and the backend gets optimized soon.
 - **Port Conflicts**: Port 8000 is reserved by Coolify itself. And since all the apps are running on the same host, different apps/resources can’t use the same port. This is only a minor annoyance, but still something to keep in mind.
 
-That’s it for now! All in all, this was a fun experience, despite the fact that I hit a bug during installation and had to restart the process, and there were a few other hiccups* along the way. 
+That’s it for now! All in all, this was a fun experience, despite the fact that I hit a bug during installation and had to restart the process, and there were a few other hiccups* along the way.
 
-_*It would have probably been a smoother process had I been more patient and actually read the documentation but my nature is to [jump in first](https://www.youtube.com/watch?v=mLyOj_QD4a4) and learn to swim later :D_
+_*It would have probably been a smoother process had I been more patient and actually read the documentation but my nature is to [jump in first](https://www.youtube.com/watch?v=mLyOj_QD4a4) and learn to swim later 😅_

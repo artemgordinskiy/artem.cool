@@ -17,7 +17,7 @@ jobs:
       - name: Deploy the site
         uses: benmatselby/hugo-deploy-gh-pages@master
         env:
-          HUGO_VERSION: 0.78.2
+          HUGO_VERSION: 0.134
           TARGET_REPO: artemgordinskiy/artem.cool
           TARGET_BRANCH: gh-pages
           TOKEN: ${{ secrets.GH_ACCESS_TOKEN }}
