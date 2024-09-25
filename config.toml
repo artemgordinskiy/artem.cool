@@ -6,9 +6,9 @@ defaultcontentlanguage = "en"
 
 paginate = 20
 
-pygmentsstyle = "bw"
-pygmentscodefences = true
-pygmentscodefencesguesssyntax = true
+#pygmentsstyle = "bw"
+#pygmentscodefences = true
+#pygmentscodefencesguesssyntax = true
 
 [params]
 author = "Artem Gordinskiy"
